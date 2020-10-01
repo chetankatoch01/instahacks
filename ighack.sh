@@ -1,5 +1,5 @@
 #bin/bash
-#script By Noob Hackers
+#script By Hi-tech Ck
 #The real creator of core files is not us so the credits 
 #Goes to real author
 #colours
@@ -23,7 +23,7 @@ echo '
     ╚═╝ ╚═════╝       ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
 ' |lolcat
 printf "\n"
-printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
+printf "                \e[101m\e[1;77m  >>  Script By Hi-tech Ck << \e[0m\n"
 printf "\n"
 printf "  \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m https://www.youtube.com/channel/UC1f2AB4SAa9IeyMuWpWgKtg \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
